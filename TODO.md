@@ -1,0 +1,6 @@
+- Support X11, pulseaudio
+- Add "is empty" checks to target root, to ensure that you dont overwrite your files
+- Create resize tool
+- Handle more edge cases
+- Auto umount on error
+- Improve performance
